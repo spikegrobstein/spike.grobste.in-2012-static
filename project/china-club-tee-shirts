@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta name="google-site-verification" content="R55YC363lbxKNMuXJ31A9QYN4PTTKNXcyBUZlH5cCZI" />
+	<title>spike.grobste.in</title>
+
+	<script src="/javascripts/prototype.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/application.js?1352425341" type="text/javascript"></script>
+	<link href="/stylesheets/lamestuff.css?1352425341" media="screen" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+	<div id="header">
+	<div id="header_info">
+				<span>me@spike.cx</span>
+				<span>908.803.8995</span>
+				<span>San Francisco, CA</span>
+			</div>
+	<img src="/images/spikegrobstein_title.gif" alt="spikegrobstein" />
+	<div style="clear: both; float: none"><!-- HARK! An scout has reached the gates... --></div>
+</div>
+	<div id="navigation">
+	<ul id="main_nav">
+		<li><a href="/" class="">home</a></li>
+		<li><a href="/portfolio" class="current">portfolio</a></li>
+		<li><a href="/resume" class="">r&eacute;sum&eacute;</a></li>
+		<li><a href="/contact" class="">contact</a></li>
+			</ul>
+</div>
+	
+
+	<div id="extra_navigation">
+	
+</div>
+	
+
+	<div id="content">
+	<div id="content_wrapper">
+
+		<h2>	China Club Tee Shirts
+</h2>
+
+		
+
+
+<div id="project">
+
+	<div id="categories">
+		<h4>Categories</h4>
+		<ul>
+						<li><a href="/category/artwork-recreation">Artwork Recreation</a></li>
+						<li><a href="/category/illustrator">Illustrator</a></li>
+						<li><a href="/category/photoshop">Photoshop</a></li>
+						<li><a href="/category/screenprinting">Screenprinting</a></li>
+					</ul>
+	</div>
+
+	<div id="description">
+		<p>The China Club in New York City needed tee shirts done but the only artwork they had available for their logo was on their flash-based site. A low-resolution bitmap graphic.</p>
+
+<p>I had to redraw the art in Illustrator to create a vector version for screenprinting at 12".</p>
+
+<ul>
+<li>12" 5-color screenprinting on black tee shirts.</li>
+<li>Adobe Illustrator for art.</li>
+<li>Adobe Photoshop for halftone glow.</li>
+</ul>
+
+	</div>
+	
+	<div style="clear:both; float:none"><!-- BEES! --></div>
+
+	<ol id="elements">
+				<li>
+			<div class="blurb">
+				<p>Original bitmap artwork</p>
+			</div>
+			<img alt="China-club-orig" src="http://s3.amazonaws.com/lamestuff.com/public/projects/7/china-club-orig.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>Final, redrawn artwork</p>
+			</div>
+			<img alt="China-club-final" src="http://s3.amazonaws.com/lamestuff.com/public/projects/8/china-club-final.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				
+	</ol>
+
+	<p id="copyright_info">
+		All artwork is &copy; Spike Grobstein or its respective copyright holder.<br/>
+		If you'd like to use any of the artwork from this project, please <a href="/contact">contact me</a>
+		to request permission.
+	</p>
+
+</div>
+
+		<div style="clear: both; float: none"><!-- omigod! --></div>
+	</div>
+	</div>
+
+	<div id="footer"><!-- meow --></div>
+	<div id="footer_text">
+		&copy;1997-2012 Lamestuff.com / Spike Grobstein
+	</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5702404-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

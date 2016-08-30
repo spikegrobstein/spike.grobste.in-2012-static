@@ -1,0 +1,328 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta name="google-site-verification" content="R55YC363lbxKNMuXJ31A9QYN4PTTKNXcyBUZlH5cCZI" />
+	<title>spike.grobste.in</title>
+
+	<script src="/javascripts/prototype.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/application.js?1352425341" type="text/javascript"></script>
+	<link href="/stylesheets/lamestuff.css?1352425341" media="screen" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+	<div id="header">
+	<div id="header_info">
+				<span>me@spike.cx</span>
+				<span>908.803.8995</span>
+				<span>San Francisco, CA</span>
+			</div>
+	<img src="/images/spikegrobstein_title.gif" alt="spikegrobstein" />
+	<div style="clear: both; float: none"><!-- HARK! An scout has reached the gates... --></div>
+</div>
+	<div id="navigation">
+	<ul id="main_nav">
+		<li><a href="/" class="">home</a></li>
+		<li><a href="/portfolio" class="current">portfolio</a></li>
+		<li><a href="/resume" class="">r&eacute;sum&eacute;</a></li>
+		<li><a href="/contact" class="">contact</a></li>
+			</ul>
+</div>
+	
+
+	<div id="extra_navigation">
+	
+</div>
+	
+
+	<div id="content">
+	<div id="content_wrapper">
+
+		<h2>Projects: Illustrator
+</h2>
+
+		
+
+<ul id="projects">
+<li class="project">		
+	<div class="thumb_container">
+				<a href="/project/metal-flyers"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/21/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/metal-flyers">Metal Flyers</a>
+			</h3>
+	<p>
+		<p>A collection of flyers, handouts, and posters created to promote various metal, hard rock, and punk shows. Examples o...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/classic-console-art"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/3/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/classic-console-art">Classic Console Art</a>
+			</h3>
+	<p>
+		<p>I needed some stylized icons for my AFX project. These are what I drew for use on the selection screen. I've still go...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/portfolio/show?name=xmas-2006"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/30/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/portfolio/show?name=xmas-2006">Xmas 2006</a>
+			</h3>
+	<p>
+		<p>A batch of Christmas illustrations I did for cards for family and friends.</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/free-methodist-church"><img alt="Thumbnail-1" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/4/thumbnail-1.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/free-methodist-church">Free Methodist Church</a>
+			</h3>
+	<p>
+		<p>My client needed to create a full-page and a half-page magazine advertisement for their internet dialup service for t...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/china-club-tee-shirts"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/5/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/china-club-tee-shirts">China Club Tee Shirts</a>
+			</h3>
+	<p>
+		<p>The China Club in New York City needed tee shirts done but the only artwork they had available for their logo was on ...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/portfolio/show?name=10west-flyers"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/6/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/portfolio/show?name=10west-flyers">10West Flyers</a>
+			</h3>
+	<p>
+		<p>This is a collection of flyers I created for a bar/lounge in southern New Jersey.</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/discovery-institute-logo"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/7/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/discovery-institute-logo">Discovery Institute Logo</a>
+			</h3>
+	<p>
+		<p>I was contracted to do a logo for the Discovery Institute. Being an organization dedicated to helping people with add...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/tim-horton's-at-the-nyse"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/8/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/tim-horton's-at-the-nyse">Tim Horton's at the NYSE</a>
+			</h3>
+	<p>
+		<p>Tim Horton's took over a Dunkin Donuts for a day to commemorate their listing on the New York Stock Exchange. I was g...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/afx-project-logo"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/12/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/afx-project-logo">AFX Project Logo</a>
+			</h3>
+	<p>
+		<p>The logo I created for my open source project <a href="http://sadistech.com/afx">AFX</a>: a set-top box frontend for ...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/atwood-oceanics-nyse"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/13/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/atwood-oceanics-nyse">Atwood Oceanics NYSE</a>
+			</h3>
+	<p>
+		<p>New York Stock Exchange podium backdrop created for work. A complete project showing all customer supplied artwork an...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/messageboard-icons"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/14/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/messageboard-icons">Messageboard Icons</a>
+			</h3>
+	<p>
+		<p>My friend, who runs <a href="http://www.boards2go.com">boards2go</a> wanted to have nice looking icons for buttons an...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/carmasters-usa"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/15/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/carmasters-usa">Carmasters USA</a>
+			</h3>
+	<p>
+		<p>A client was having a sign created for his business but didn't have good enough artwork. Basically, supplied art was ...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/gleny's-st.-patrick's-day-shirts"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/18/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/gleny's-st.-patrick's-day-shirts">Gleny's St. Patrick's Day Shirts</a>
+			</h3>
+	<p>
+		<p>Gleny.com wanted a design for a shirt that they could give out on St. Patrick's Day in Savannah, GA. This is what I c...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/gleny's-groundhog-day-shirts"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/19/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/gleny's-groundhog-day-shirts">Gleny's Groundhog Day Shirts</a>
+			</h3>
+	<p>
+		<p>Gleny.com wanted a design for shirts to bring to Groundhog's Day 2007. This is what I came up with.</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/jessica's-birthday-banner"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/20/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/jessica's-birthday-banner">Jessica's Birthday Banner</a>
+			</h3>
+	<p>
+		<p>Illustration done for a banner created for my second cousin's 13th birthday.</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/the-music-man"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/22/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/the-music-man">The Music Man</a>
+			</h3>
+	<p>
+		<p>Artwork I did for tee shirts for a middle school production of The Music Man. Lineart drawn from a photo on the music...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/rutgers-class-reunion"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/23/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/rutgers-class-reunion">Rutgers Class Reunion</a>
+			</h3>
+	<p>
+		<p>Illustration used on tee shirts for a class reunion on the Livingston campus of Rutgers University.</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/screencataz"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/24/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/screencataz">Screencataz</a>
+			</h3>
+	<p>
+		<p>Logo design for my screen printing company that I was going to start, but opted to keep doing business under my own n...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/st.-aloysius-volleyball"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/25/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/st.-aloysius-volleyball">St. Aloysius Volleyball</a>
+			</h3>
+	<p>
+		<p>An Illustration I did for St. Aloysius's Girls' Volleyball Team's tee shirts.</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/st.-patrick's-day---savannah,-ga"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/26/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/st.-patrick's-day---savannah,-ga">St. Patrick's Day - Savannah, GA</a>
+			</h3>
+	<p>
+		<p>An illustration created for tee shirts that my friend handed out at St. Patrick's day in Savannah, GA in 2005.</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/tiger-thon---towson-university"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/27/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/tiger-thon---towson-university">Tiger Thon - Towson University</a>
+			</h3>
+	<p>
+		<p>Art I created for screen printed tee shirts for Towson University.</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/valentine"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/29/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/valentine">Valentine</a>
+			</h3>
+	<p>
+		<p>An illustration I created for a valentine I gave to a friend of mine.</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/metro-flag-insert"><img alt="Picture_2" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/31/Picture_2.png" /></a>
+			</div>
+	<h3>
+				<a href="/project/metro-flag-insert">Metro Flag Insert</a>
+			</h3>
+	<p>
+		<p>Metro Flag of Dover, NJ needed artwork done for their sewn flag packaging. I created this for them which was subseque...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li>
+</ul>
+
+
+
+		<div style="clear: both; float: none"><!-- omigod! --></div>
+	</div>
+	</div>
+
+	<div id="footer"><!-- meow --></div>
+	<div id="footer_text">
+		&copy;1997-2012 Lamestuff.com / Spike Grobstein
+	</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5702404-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

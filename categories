@@ -1,0 +1,167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta name="google-site-verification" content="R55YC363lbxKNMuXJ31A9QYN4PTTKNXcyBUZlH5cCZI" />
+	<title>spike.grobste.in</title>
+
+	<script src="/javascripts/prototype.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/application.js?1352425341" type="text/javascript"></script>
+	<link href="/stylesheets/lamestuff.css?1352425341" media="screen" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+	<div id="header">
+	<div id="header_info">
+				<span>me@spike.cx</span>
+				<span>908.803.8995</span>
+				<span>San Francisco, CA</span>
+			</div>
+	<img src="/images/spikegrobstein_title.gif" alt="spikegrobstein" />
+	<div style="clear: both; float: none"><!-- HARK! An scout has reached the gates... --></div>
+</div>
+	<div id="navigation">
+	<ul id="main_nav">
+		<li><a href="/" class="">home</a></li>
+		<li><a href="/portfolio" class="current">portfolio</a></li>
+		<li><a href="/resume" class="">r&eacute;sum&eacute;</a></li>
+		<li><a href="/contact" class="">contact</a></li>
+			</ul>
+</div>
+	
+
+	<div id="extra_navigation">
+		<ul>
+		<li><a href="/projects">projects</a></li>
+		<li><a href="/categories" class="current">categories</a></li>
+	</ul>
+
+</div>
+	
+
+	<div id="content">
+	<div id="content_wrapper">
+
+		<h2>	Categories
+</h2>
+
+		
+
+
+<ul id="categories">
+	
+	<li>
+		<a href="/category/artwork-recreation">Artwork Recreation</a>
+		(5 items)
+			</li>
+	
+	<li>
+		<a href="/category/banner">Banner</a>
+		(4 items)
+			</li>
+	
+	<li>
+		<a href="/category/design">Design</a>
+		(18 items)
+			</li>
+	
+	<li>
+		<a href="/category/flyer">Flyer</a>
+		(2 items)
+			</li>
+	
+	<li>
+		<a href="/category/illustration">Illustration</a>
+		(10 items)
+			</li>
+	
+	<li>
+		<a href="/category/illustrator">Illustrator</a>
+		(23 items)
+			</li>
+	
+	<li>
+		<a href="/category/indesign">InDesign</a>
+		(1 item)
+			</li>
+	
+	<li>
+		<a href="/category/logo-design">Logo Design</a>
+		(5 items)
+			</li>
+	
+	<li>
+		<a href="/category/photoshop">Photoshop</a>
+		(9 items)
+			</li>
+	
+	<li>
+		<a href="/category/php">PHP</a>
+		(1 item)
+			</li>
+	
+	<li>
+		<a href="/category/poster">Poster</a>
+		(1 item)
+			</li>
+	
+	<li>
+		<a href="/category/print-graphics">Print Graphics</a>
+		(6 items)
+			</li>
+	
+	<li>
+		<a href="/category/programming">Programming</a>
+		(2 items)
+			</li>
+	
+	<li>
+		<a href="/category/retouching">Retouching</a>
+		(5 items)
+			</li>
+	
+	<li>
+		<a href="/category/screenprinting">Screenprinting</a>
+		(8 items)
+			</li>
+	
+	<li>
+		<a href="/category/sign-graphics">Sign Graphics</a>
+		(1 item)
+			</li>
+	
+	<li>
+		<a href="/category/web-application">Web Application</a>
+		(1 item)
+			</li>
+	
+	<li>
+		<a href="/category/web-graphics">Web Graphics</a>
+		(5 items)
+			</li>
+	</ul>
+
+		<div style="clear: both; float: none"><!-- omigod! --></div>
+	</div>
+	</div>
+
+	<div id="footer"><!-- meow --></div>
+	<div id="footer_text">
+		&copy;1997-2012 Lamestuff.com / Spike Grobstein
+	</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5702404-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

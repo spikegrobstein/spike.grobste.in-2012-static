@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta name="google-site-verification" content="R55YC363lbxKNMuXJ31A9QYN4PTTKNXcyBUZlH5cCZI" />
+	<title>spike.grobste.in</title>
+
+	<script src="/javascripts/prototype.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/application.js?1352425341" type="text/javascript"></script>
+	<link href="/stylesheets/lamestuff.css?1352425341" media="screen" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+	<div id="header">
+	<div id="header_info">
+				<span>me@spike.cx</span>
+				<span>908.803.8995</span>
+				<span>San Francisco, CA</span>
+			</div>
+	<img src="/images/spikegrobstein_title.gif" alt="spikegrobstein" />
+	<div style="clear: both; float: none"><!-- HARK! An scout has reached the gates... --></div>
+</div>
+	<div id="navigation">
+	<ul id="main_nav">
+		<li><a href="/" class="">home</a></li>
+		<li><a href="/portfolio" class="current">portfolio</a></li>
+		<li><a href="/resume" class="">r&eacute;sum&eacute;</a></li>
+		<li><a href="/contact" class="">contact</a></li>
+			</ul>
+</div>
+	
+
+	<div id="extra_navigation">
+	
+</div>
+	
+
+	<div id="content">
+	<div id="content_wrapper">
+
+		<h2>	The Music Man
+</h2>
+
+		
+
+
+<div id="project">
+
+	<div id="categories">
+		<h4>Categories</h4>
+		<ul>
+						<li><a href="/category/artwork-recreation">Artwork Recreation</a></li>
+						<li><a href="/category/design">Design</a></li>
+						<li><a href="/category/illustration">Illustration</a></li>
+						<li><a href="/category/illustrator">Illustrator</a></li>
+						<li><a href="/category/screenprinting">Screenprinting</a></li>
+					</ul>
+	</div>
+
+	<div id="description">
+		<p>Artwork I did for tee shirts for a middle school production of The Music Man. Lineart drawn from a photo on the musical's score.</p>
+	</div>
+	
+	<div style="clear:both; float:none"><!-- BEES! --></div>
+
+	<ol id="elements">
+				<li>
+			<div class="blurb">
+				<p>Original</p>
+			</div>
+			<img alt="Music-man-orig" src="http://s3.amazonaws.com/lamestuff.com/public/projects/89/music-man-orig.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>Final</p>
+			</div>
+			<img alt="Music-man-final" src="http://s3.amazonaws.com/lamestuff.com/public/projects/90/music-man-final.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				
+	</ol>
+
+	<p id="copyright_info">
+		All artwork is &copy; Spike Grobstein or its respective copyright holder.<br/>
+		If you'd like to use any of the artwork from this project, please <a href="/contact">contact me</a>
+		to request permission.
+	</p>
+
+</div>
+
+		<div style="clear: both; float: none"><!-- omigod! --></div>
+	</div>
+	</div>
+
+	<div id="footer"><!-- meow --></div>
+	<div id="footer_text">
+		&copy;1997-2012 Lamestuff.com / Spike Grobstein
+	</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5702404-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

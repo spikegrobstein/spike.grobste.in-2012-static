@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta name="google-site-verification" content="R55YC363lbxKNMuXJ31A9QYN4PTTKNXcyBUZlH5cCZI" />
+	<title>spike.grobste.in</title>
+
+	<script src="/javascripts/prototype.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/application.js?1352425341" type="text/javascript"></script>
+	<link href="/stylesheets/lamestuff.css?1352425341" media="screen" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+	<div id="header">
+	<div id="header_info">
+				<span>me@spike.cx</span>
+				<span>908.803.8995</span>
+				<span>San Francisco, CA</span>
+			</div>
+	<img src="/images/spikegrobstein_title.gif" alt="spikegrobstein" />
+	<div style="clear: both; float: none"><!-- HARK! An scout has reached the gates... --></div>
+</div>
+	<div id="navigation">
+	<ul id="main_nav">
+		<li><a href="/" class="">home</a></li>
+		<li><a href="/portfolio" class="current">portfolio</a></li>
+		<li><a href="/resume" class="">r&eacute;sum&eacute;</a></li>
+		<li><a href="/contact" class="">contact</a></li>
+			</ul>
+</div>
+	
+
+	<div id="extra_navigation">
+	
+</div>
+	
+
+	<div id="content">
+	<div id="content_wrapper">
+
+		<h2>	Metal Flyers
+</h2>
+
+		
+
+
+<div id="project">
+
+	<div id="categories">
+		<h4>Categories</h4>
+		<ul>
+						<li><a href="/category/design">Design</a></li>
+						<li><a href="/category/flyer">Flyer</a></li>
+						<li><a href="/category/illustrator">Illustrator</a></li>
+						<li><a href="/category/photoshop">Photoshop</a></li>
+						<li><a href="/category/poster">Poster</a></li>
+						<li><a href="/category/print-graphics">Print Graphics</a></li>
+						<li><a href="/category/web-graphics">Web Graphics</a></li>
+					</ul>
+	</div>
+
+	<div id="description">
+		<p>A collection of flyers, handouts, and posters created to promote various metal, hard rock, and punk shows. Examples of various design styles.</p>
+	</div>
+	
+	<div style="clear:both; float:none"><!-- BEES! --></div>
+
+	<ol id="elements">
+				<li>
+			<div class="blurb">
+				<p>Premature Burial, Through Darkened Skies
+(March 2006)</p>
+			</div>
+			<img alt="Pb-tds-flyer-web" src="http://s3.amazonaws.com/lamestuff.com/public/projects/74/PB-TDS-Flyer-web.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>The Torture Store, Premature Burial
+(June 2006)</p>
+			</div>
+			<img alt="Ts_pb_20060623__4" src="http://s3.amazonaws.com/lamestuff.com/public/projects/75/TS_PB_20060623__4.25x5.5_.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>Premature Burial, 11th Plague, Slaughterhouse Hill, The Torture Store
+(April 2006)</p>
+			</div>
+			<img alt="Pb-11p-sh-ts_flyer" src="http://s3.amazonaws.com/lamestuff.com/public/projects/76/PB-11P-SH-TS_Flyer.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>Premature Burial, The Bloodstain Prophecy, 4th Plague
+(February 2006 - 4.25" x 5.5")</p>
+			</div>
+			<img alt="Pb-4thp-bp-flyer-web" src="http://s3.amazonaws.com/lamestuff.com/public/projects/77/PB-4thP-BP-Flyer-Web.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>Premature Burial, The Bloodstain Prophecy, 4th Plague
+(February 2006 - 11" x 17")</p>
+			</div>
+			<img alt="Pb-4thp-bp-flyer-11x17-colo" src="http://s3.amazonaws.com/lamestuff.com/public/projects/78/PB-4thP-BP-Flyer-11x17-Colo.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>Fecal Corpse, Ominous, Premature Burial, Empure, Debelation, Amalachyte
+(November 2005 - 5.5" x 4.5")</p>
+			</div>
+			<img alt="Fecal-corpse-_q_-lowres" src="http://s3.amazonaws.com/lamestuff.com/public/projects/79/Fecal-Corpse-_Q_-lowres.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>Premature Burial, The Eleventh Plague
+(October 2005 - 4.25" x 5.5")</p>
+			</div>
+			<img alt="Pb-ep-flyer-web" src="http://s3.amazonaws.com/lamestuff.com/public/projects/80/PB-EP-Flyer-web.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>This Bike is a Pipe Bomb, Scent of Human History, The M Word, Devastator
+(January 2005 - 5.5" x 4.25")</p>
+			</div>
+			<img alt="Thisbike-flyer" src="http://s3.amazonaws.com/lamestuff.com/public/projects/81/thisbike-flyer.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>Leftover Crack, World Inferno Friendship Society, Morning Glory, Banji
+(June 2004 - 5.5" x 4.25")</p>
+			</div>
+			<img alt="Leftover-crack-flyer" src="http://s3.amazonaws.com/lamestuff.com/public/projects/82/leftover-crack-flyer.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>EYEHATEGOD
+(May 2004 - web banner)</p>
+			</div>
+			<img alt="Eyehategod" src="http://s3.amazonaws.com/lamestuff.com/public/projects/83/eyehategod.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>The Plot to Blow Up The Eiffel Tower, The Dream is Dead, Donna and Carly, The Fiction, Querencia, Birthday Boyz
+(March 2004 - 5.5" x 4.25")</p>
+			</div>
+			<img alt="Plot-to-blow-flyer" src="http://s3.amazonaws.com/lamestuff.com/public/projects/84/plot-to-blow-Flyer.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>Candiria, Irate, 36 Deadly Fists
+(March 2004 - 5.5" x 4.25")</p>
+			</div>
+			<img alt="Candiria-flyer" src="http://s3.amazonaws.com/lamestuff.com/public/projects/85/candiria-flyer.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>DJ Assault
+(February 2004 - 8.5" x 11")</p>
+			</div>
+			<img alt="Dj-assault-flyer" src="http://s3.amazonaws.com/lamestuff.com/public/projects/86/dj-assault-flyer.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>Das Oath, Celebrity Murders, Let it Burn, Hoofknife
+(January 2004 - 5.5" x 4.25")</p>
+			</div>
+			<img alt="Das-oath-skull-flyer" src="http://s3.amazonaws.com/lamestuff.com/public/projects/87/das-oath-skull-Flyer.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>Das Oath, Celebrity Murders, Let it Burn, Hoofknife.
+(January 2004 - 5.5" x 4.25")</p>
+			</div>
+			<img alt="Das-oath-flyer" src="http://s3.amazonaws.com/lamestuff.com/public/projects/88/Das-oath-flyer.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				
+	</ol>
+
+	<p id="copyright_info">
+		All artwork is &copy; Spike Grobstein or its respective copyright holder.<br/>
+		If you'd like to use any of the artwork from this project, please <a href="/contact">contact me</a>
+		to request permission.
+	</p>
+
+</div>
+
+		<div style="clear: both; float: none"><!-- omigod! --></div>
+	</div>
+	</div>
+
+	<div id="footer"><!-- meow --></div>
+	<div id="footer_text">
+		&copy;1997-2012 Lamestuff.com / Spike Grobstein
+	</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5702404-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta name="google-site-verification" content="R55YC363lbxKNMuXJ31A9QYN4PTTKNXcyBUZlH5cCZI" />
+	<title>spike.grobste.in</title>
+
+	<script src="/javascripts/prototype.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/application.js?1352425341" type="text/javascript"></script>
+	<link href="/stylesheets/lamestuff.css?1352425341" media="screen" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+	<div id="header">
+	<div id="header_info">
+				<span>me@spike.cx</span>
+				<span>908.803.8995</span>
+				<span>San Francisco, CA</span>
+			</div>
+	<img src="/images/spikegrobstein_title.gif" alt="spikegrobstein" />
+	<div style="clear: both; float: none"><!-- HARK! An scout has reached the gates... --></div>
+</div>
+	<div id="navigation">
+	<ul id="main_nav">
+		<li><a href="/" class="">home</a></li>
+		<li><a href="/portfolio" class="current">portfolio</a></li>
+		<li><a href="/resume" class="">r&eacute;sum&eacute;</a></li>
+		<li><a href="/contact" class="">contact</a></li>
+			</ul>
+</div>
+	
+
+	<div id="extra_navigation">
+	
+</div>
+	
+
+	<div id="content">
+	<div id="content_wrapper">
+
+		<h2>Projects: Banner
+</h2>
+
+		
+
+<ul id="projects">
+<li class="project">		
+	<div class="thumb_container">
+				<a href="/project/abn-amro-flag"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/11/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/abn-amro-flag">ABN-AMRO Flag</a>
+			</h3>
+	<p>
+		<p>The project was to create a 10'x20' flag using a photo and ANB-AMRO's colors and logo to advertise the 2006 Volvo Oce...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/tim-horton's-at-the-nyse"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/8/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/tim-horton's-at-the-nyse">Tim Horton's at the NYSE</a>
+			</h3>
+	<p>
+		<p>Tim Horton's took over a Dunkin Donuts for a day to commemorate their listing on the New York Stock Exchange. I was g...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/atwood-oceanics-nyse"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/13/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/atwood-oceanics-nyse">Atwood Oceanics NYSE</a>
+			</h3>
+	<p>
+		<p>New York Stock Exchange podium backdrop created for work. A complete project showing all customer supplied artwork an...</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li><li class="project">		
+	<div class="thumb_container">
+				<a href="/project/jessica's-birthday-banner"><img alt="Thumbnail" src="http://s3.amazonaws.com/lamestuff.com/public/portfolio/20/thumbnail.jpg" /></a>
+			</div>
+	<h3>
+				<a href="/project/jessica's-birthday-banner">Jessica's Birthday Banner</a>
+			</h3>
+	<p>
+		<p>Illustration done for a banner created for my second cousin's 13th birthday.</p>
+	</p>
+	<div style="clear: both"><!-- wonk wonk wonk --></div>
+</li>
+</ul>
+
+
+
+		<div style="clear: both; float: none"><!-- omigod! --></div>
+	</div>
+	</div>
+
+	<div id="footer"><!-- meow --></div>
+	<div id="footer_text">
+		&copy;1997-2012 Lamestuff.com / Spike Grobstein
+	</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5702404-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta name="google-site-verification" content="R55YC363lbxKNMuXJ31A9QYN4PTTKNXcyBUZlH5cCZI" />
+	<title>spike.grobste.in</title>
+
+	<script src="/javascripts/prototype.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/application.js?1352425341" type="text/javascript"></script>
+	<link href="/stylesheets/lamestuff.css?1352425341" media="screen" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+	<div id="header">
+	<div id="header_info">
+				<span>me@spike.cx</span>
+				<span>908.803.8995</span>
+				<span>San Francisco, CA</span>
+			</div>
+	<img src="/images/spikegrobstein_title.gif" alt="spikegrobstein" />
+	<div style="clear: both; float: none"><!-- HARK! An scout has reached the gates... --></div>
+</div>
+	<div id="navigation">
+	<ul id="main_nav">
+		<li><a href="/" class="">home</a></li>
+		<li><a href="/portfolio" class="current">portfolio</a></li>
+		<li><a href="/resume" class="">r&eacute;sum&eacute;</a></li>
+		<li><a href="/contact" class="">contact</a></li>
+			</ul>
+</div>
+	
+
+	<div id="extra_navigation">
+	
+</div>
+	
+
+	<div id="content">
+	<div id="content_wrapper">
+
+		<h2>	Atwood Oceanics NYSE
+</h2>
+
+		
+
+
+<div id="project">
+
+	<div id="categories">
+		<h4>Categories</h4>
+		<ul>
+						<li><a href="/category/artwork-recreation">Artwork Recreation</a></li>
+						<li><a href="/category/banner">Banner</a></li>
+						<li><a href="/category/design">Design</a></li>
+						<li><a href="/category/illustrator">Illustrator</a></li>
+						<li><a href="/category/photoshop">Photoshop</a></li>
+						<li><a href="/category/retouching">Retouching</a></li>
+					</ul>
+	</div>
+
+	<div id="description">
+		<p>New York Stock Exchange podium backdrop created for work. A complete project showing all customer supplied artwork and elements and how they were assembled from start to finish.</p>
+	</div>
+	
+	<div style="clear:both; float:none"><!-- BEES! --></div>
+
+	<ol id="elements">
+				<li>
+			<div class="blurb">
+				<p>Client supplied low-res jpeg of their logo</p>
+			</div>
+			<img alt="Atwood-logo-orig" src="http://s3.amazonaws.com/lamestuff.com/public/projects/54/Atwood-logo-orig.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>I dropped it into illustrator and redrew it</p>
+			</div>
+			<img alt="Atwood-logo-final" src="http://s3.amazonaws.com/lamestuff.com/public/projects/55/Atwood-logo-final.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>Client then supplied a graphic that they wanted on the backdrop</p>
+			</div>
+			<img alt="Atwood-bg-orig" src="http://s3.amazonaws.com/lamestuff.com/public/projects/56/Atwood-bg-orig.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>I then added extra image to the left and bottom of it and applied some blurs</p>
+			</div>
+			<img alt="Atwood-bg-big" src="http://s3.amazonaws.com/lamestuff.com/public/projects/57/Atwood-bg-big.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>Finally, I faded the image out a little and laid vector art on top of it in Illustrator</p>
+			</div>
+			<img alt="Atwood-final" src="http://s3.amazonaws.com/lamestuff.com/public/projects/58/Atwood-final.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				<li>
+			<div class="blurb">
+				<p>On March 1, 2006, it was hung at the New York Stock Exchange</p>
+			</div>
+			<img alt="Atwood_nyse_banner_hang" src="http://s3.amazonaws.com/lamestuff.com/public/projects/59/atwood_nyse_banner_hang.jpg" />
+			<div style="clear:both; float:none"><!-- yup. --></div>
+		</li>
+				
+	</ol>
+
+	<p id="copyright_info">
+		All artwork is &copy; Spike Grobstein or its respective copyright holder.<br/>
+		If you'd like to use any of the artwork from this project, please <a href="/contact">contact me</a>
+		to request permission.
+	</p>
+
+</div>
+
+		<div style="clear: both; float: none"><!-- omigod! --></div>
+	</div>
+	</div>
+
+	<div id="footer"><!-- meow --></div>
+	<div id="footer_text">
+		&copy;1997-2012 Lamestuff.com / Spike Grobstein
+	</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5702404-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

@@ -1,0 +1,333 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta name="google-site-verification" content="R55YC363lbxKNMuXJ31A9QYN4PTTKNXcyBUZlH5cCZI" />
+	<title>spike.grobste.in</title>
+
+	<script src="/javascripts/prototype.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1352425341" type="text/javascript"></script>
+<script src="/javascripts/application.js?1352425341" type="text/javascript"></script>
+	<link href="/stylesheets/lamestuff.css?1352425341" media="screen" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+	<div id="header">
+	<div id="header_info">
+				<span>me@spike.cx</span>
+				<span>908.803.8995</span>
+				<span>San Francisco, CA</span>
+			</div>
+	<img src="/images/spikegrobstein_title.gif" alt="spikegrobstein" />
+	<div style="clear: both; float: none"><!-- HARK! An scout has reached the gates... --></div>
+</div>
+	<div id="navigation">
+	<ul id="main_nav">
+		<li><a href="/" class="">home</a></li>
+		<li><a href="/portfolio" class="">portfolio</a></li>
+		<li><a href="/resume" class="current">r&eacute;sum&eacute;</a></li>
+		<li><a href="/contact" class="">contact</a></li>
+			</ul>
+</div>
+	
+
+	<div id="extra_navigation">
+		<ul>
+		<li><a href="/resume.pdf"><img alt="Pdf" src="/images/pdf.gif?1352425341" />Download as PDF</a></li>
+	</ul>
+
+</div>
+	
+
+	<div id="content">
+	<div id="content_wrapper">
+
+		<h2></h2>
+
+		
+
+<div id="resume">
+	
+
+
+
+
+	
+<div id="objectives">
+	<h3>Objective</h3>
+	<ul>
+				<li>Having over 10 years experience in a multitude of programming languages and frameworks as well as being well versed in server administration and systems engineering, I aim to work in a forward-thinking environment where I can leverage my strengths and interests.</li>
+			</ul>
+</div>
+
+<div id="certifications">
+	<h3>Education / Certifications</h3>
+	<ul>
+				<li>Adobe Certified Expert (ACE) Photoshop CS2</li>
+				<li>Adobe Certified Expert (ACE) Illustrator CS2</li>
+				<li>Rutgers University- New Brunswick, NJ (1999-2000)</li>
+			</ul>
+</div>
+
+<div id="skills">
+	<h3>Skills</h3>
+	<ul>
+				<li>Knowledge of computer and computer network architecture and security. Understanding of secure application design concepts. SOA, RESTful webservices, SOAP/WSDL</li>
+				<li>Experienced with use and administration of MacOS X, MacOS X Server, Linux (Gentoo/Ubuntu/CentOS), *BSD, BeOS, Windows XP/2003, Solaris.</li>
+				<li>Mastery of Photoshop, ImageReady, Illustrator, GoLive, AfterEffects, Premier, Quark XPress, InDesign, Microsoft Office (some Excel scripting), XCode, Quickbooks, FilemakerPro, Kapow Mashup Server,  HTML5</li>
+				<li>Experience with use and administration of LDAP, MySQL, CVS/SVN/git, Firewalls (iptables), BIND/DNS, ActiveDirectory, Phusion Passenger, Capistrano, Apache, Trac, MarkLogic Server, Cisco IOS, VMWare ESX, HYDRAstor, Sonoa ServiceNet, Amazon's AWS including EC2, S3 and SQS</li>
+				<li>Programming skills include (but not limited to) Ruby, Javascript, C, php, bash, perl, Applescript, XQuery, Erlang, Elixir</li>
+			</ul>
+</div>
+
+<div id="experiences">
+	<h3>Work Experience</h3>
+	<ul>
+				<li>
+			<div class="company_info">
+				<span class="company">Apple, Inc</span> (<span class="company_description">You know.</span>) - <span class="location">Cupertino, CA</span>
+			</div>
+			<span class="position">Frontend Operations Engineer</span>
+			<span class="time_spent">
+				(
+				January 2015 -
+								present
+								)
+			</span>
+			<p>
+				Frontend Operations.
+			</p>
+		</li>
+				<li>
+			<div class="company_info">
+				<span class="company">Shutterstock</span> (<span class="company_description">Stock Photo/Video Marketplace</span>) - <span class="location">New York</span>
+			</div>
+			<span class="position">Infrastructure Engineer</span>
+			<span class="time_spent">
+				(
+				August 2013 -
+								January 2015
+								)
+			</span>
+			<p>
+				Built distributed configuration management database (CMDB) with RESTful API for automatic configuration of servers using Chef. Included support for scoped and namespaced variables to enforce package versions, variables in templates and conditional execution during convergence, replacing our centralized Puppet installation and allowing more agile deployments of infrastructure. Modified Git Jenkins plugin (Java) so that builds occur on the actual code pushed, rather than just HEAD of the given branch. Rewrote web-based deployment application (Ruby, Sinatra, EventMachine) to reduce occurrences of race conditions and intermittent bugs resulting in failed deployments. Prototyped distributed server provisioning platform to replace old Puppet infrastructure using ElasticSearch and Cassandra for data persistence and Ruby client for interacting with datastores and running necessary configurations.
+			</p>
+		</li>
+				<li>
+			<div class="company_info">
+				<span class="company">Ticket Evolution</span> (<span class="company_description">Online </span>) - <span class="location">Jersey City, NJ</span>
+			</div>
+			<span class="position">Senior DevOps Engineer</span>
+			<span class="time_spent">
+				(
+				January 2012 -
+								August 2013
+								)
+			</span>
+			<p>
+				Built out mixed virtual and bare-metal infrastructure (ESX, Postgresql, Rails, nginx, Passenger, Redis, Resque, Ubuntu) for high-traffic, high-availability, service-based web application from the ground up. Designed an implemented security policies, deployment strategies and systems management tools. Rails, Ruby and Bash development work utilizing Chef, Capistrano, and a plethora of other tools.
+			</p>
+		</li>
+				<li>
+			<div class="company_info">
+				<span class="company">Resolution Studios LLC</span> (<span class="company_description">Web Development</span>) - <span class="location">New York, NY</span>
+			</div>
+			<span class="position">Cofounder / CTO / Systems Administrator / Application Architect</span>
+			<span class="time_spent">
+				(
+				January 2009 -
+								present
+								)
+			</span>
+			<p>
+				We started this company for both use as a legal entity to do contract tech work with and to create and launch new services and products. I'm in charge of choosing, implementing and managing technologies as well as designing the architecture of our solutions and applications.
+			</p>
+		</li>
+				<li>
+			<div class="company_info">
+				<span class="company">Warner Music Group</span> (<span class="company_description">Record Label</span>) - <span class="location">New York, NY</span>
+			</div>
+			<span class="position">Digital Technology Architect</span>
+			<span class="time_spent">
+				(
+				July 2007 -
+								present
+								)
+			</span>
+			<p>
+				Technology Architect for the Digital Technologies Architecture department. Manage, monitor and maintain over 150 computers both physical and virtual; Linux, Windows, and OSX mixed environment. DHCP, DNS, Directory Controllers, LAMP boxes, Ruby on Rails, file servers (NAS, SFTP, Win2k3 and HYDRAstor), iSCSI, VMWare (Fusion, Server, ESX), mysql, Sonoa ServiceNet. Created an application to keep inventory of systems using Ruby on Rails. Developed reporting application in Rails that queries MarkLogic Server to generate downloadable Excel reports. Create scripts to automate repetitive, administration, and infrastructure tasks. Evaluate hardware and software. Advanced configuration of virtual environment for disaster recovery and resiliency. Coordinate migration of internal projects from development to QA to production. Application architecture design, recommendations and advice. Administration of Marklogic Server. Kapow Katalyst application integration. Built XServe infrastructure for high-capacity video encoding farm including procedures for monitoring and alerting, (nagios, cacti), system restore and autoconfiguration (ruby, Apple System Image Utility).
+			</p>
+		</li>
+				<li>
+			<div class="company_info">
+				<span class="company">National Flag &amp; Display</span> (<span class="company_description">Flags, banners and signage</span>) - <span class="location">New York, NY</span>
+			</div>
+			<span class="position">Production Artist / Systems Administrator</span>
+			<span class="time_spent">
+				(
+				August 2003 -
+								July 2007
+								)
+			</span>
+			<p>
+				Prepare artwork for output on digital inkjet machines (on vinyl and fabric), screenprinting, appliqu&amp;eacute;, and embroidery. Redraw designs and logos. Operate plotter for appliqu&amp;eacute; and screenprinting jobs. Perform computer tech support for the PC and Mac network (Windows 2003 Fileserver, OSX and OS9 Macs, Windows 98/2000/XP) at all three company locations. Write scripts for repetitive tasks in the art department (file labeling, jpeg proofs, emailing, and CD burning for outsourced jobs) using Applescript and PERL. Assemble hardware and configured software for FTP server running Gentoo Linux, including automatic email notification of file submissions. Write web application for client file submissions. Create and design corporate website using PHP, PERL, CSS and XHTML, with seamless integration with FTP server's web front-end. Also handle miscellaneous application and script development and documentation.
+			</p>
+		</li>
+				<li>
+			<div class="company_info">
+				<span class="company">Ivy League Graphics, LLC</span> (<span class="company_description">Screenprinting/ Embroidery</span>) - <span class="location">Plainfield, NJ</span>
+			</div>
+			<span class="position">Art Director/ Co-owner</span>
+			<span class="time_spent">
+				(
+				January 2005 -
+								December 2005
+								)
+			</span>
+			<p>
+				Involved in setting up the new business, including creating relationships with vendors and purchasing computer and production hardware and software. Handled billing, collections, tax information and sales and creating original artwork for screenprinting and embroidery.
+			</p>
+		</li>
+				<li>
+			<div class="company_info">
+				<span class="company">Vericon, LLC</span> (<span class="company_description">ISP Turnkey Solutions / ISP Branding</span>) - <span class="location">Bourbon, IN</span>
+			</div>
+			<span class="position">Lead Artist</span>
+			<span class="time_spent">
+				(
+				August 2004 -
+								February 2005
+								)
+			</span>
+			<p>
+				Designed batches of related graphics for branded websites and software following predetermined size requirements. Designs included web and print graphics.
+			</p>
+		</li>
+				<li>
+			<div class="company_info">
+				<span class="company">Angry Lamb</span> (<span class="company_description">Computer Technicians</span>) - <span class="location">New York, NY</span>
+			</div>
+			<span class="position">On-site Computer Tech</span>
+			<span class="time_spent">
+				(
+				December 2003 -
+								October 2004
+								)
+			</span>
+			<p>
+				Traveled to client offices to configure and / or analyze and repair computer problems, both hardware and software. Worked in environments with mixed platforms (OSX, Windows 98/2000/XP, and Windows 2003 Server). Wrote Applescripts to automate connecting to shared network drives. Put together Microsoft Word documentation for employees to access shared network drives.
+			</p>
+		</li>
+				<li>
+			<div class="company_info">
+				<span class="company">Viscotec USA, LLC</span> (<span class="company_description">Digital Textile Printing</span>) - <span class="location">Kenilworth, NJ</span>
+			</div>
+			<span class="position">Production Artist</span>
+			<span class="time_spent">
+				(
+				August 2002 -
+								July 2003
+								)
+			</span>
+			<p>
+				Set up artwork for the RIP, contacted customers regarding questions and problems, wrote software to automate DVD-RAM backup system for OSX using Obj-C and PERL, operated Solaris-based RIP over Telnet, and operated printing machines. Also hand-coded an HTML and PERL template engine to create a new company web site.
+			</p>
+		</li>
+				<li>
+			<div class="company_info">
+				<span class="company">Jersey Graphics, Inc. / Jersey Graphics One, LLC</span> (<span class="company_description">Screenprinting/ Embroidery</span>) - <span class="location">Plainfield, NJ</span>
+			</div>
+			<span class="position">Art Director</span>
+			<span class="time_spent">
+				(
+				August 2000 -
+								November 2005
+								)
+			</span>
+			<p>
+				Responsible for scanning, artwork re-creation from customer hardcopy and original artwork, color separations for screenprinting, invoicing, customer service, and training employees
+			</p>
+		</li>
+				<li>
+			<div class="company_info">
+				<span class="company">DGM Computer Graphics</span> (<span class="company_description">Digital Pre-press</span>) - <span class="location">Roselle, NJ</span>
+			</div>
+			<span class="position">Scanning Technician</span>
+			<span class="time_spent">
+				(
+				June 1996 -
+								September 1998
+								)
+			</span>
+			<p>
+				Worked part-time handling artwork re-creation, photo retouching and manipulation, color correction, and flatbed and drum scanning of reflective art and transparencies. Evaluation of new software.
+			</p>
+		</li>
+			</ul>
+</div>
+
+<div id ="accomplishments">
+	<h3>Personal Projects &amp; Accomplishments</h3>
+	<ul>
+				<li><p>Currently run webservers (Gentoo Linux and CentOS 5.1) with SSH, SFTP, Apache, MySQL, PHP, and Ruby on Rails, with over 20 users and websites. Set up personal file server (CentOS 5.1) on home LAN for network access storage and automated daily snapshot backup of webserver, databases and SVN repositories using custom-written Ruby scripts.</p></li>
+				<li><p>Created a fully-functional invoicing system tailored for freelance jobs with scripts for emailing PDFs of invoices and quotes in Filemaker Pro.</p></li>
+				<li><p>Contract work at a private school:</p>
+
+<ul>
+<li>Troubleshooting on a medium-sized network (over 200 nodes).</li>
+<li>User account migration between two OSX Server machines.</li>
+<li>Disaster recovery.</li>
+<li>Automated a file restore / recovery procedure on x86 Linux (Ubuntu) to new PPC server.</li>
+<li>Layer 1: Terminating cables, punchdown, crimping.</li>
+<li>Machine reloads.</li>
+<li>Some exposure to Sonicwall content filter.</li>
+<li>Automated installs for lab machines.</li>
+<li>Automated home folder persistence on lab machines.</li>
+<li>Created student application server running Ubuntu with Moodle (student CMS application) and custom Merits application (written in Ruby on Rails) with shared LDAP user accounts between the applications.</li>
+</ul>
+</li>
+				<li><p>Collaboration with 2 international developers on web-based firewall frontend using PHP and BASH scripting. Designed and implemented module and messaging/logging frameworks, then integrated into existing code. Created error handling and reporting framework for project.</p></li>
+				<li><p>Miscellaneous contract work configuring machines in mixed environments:</p>
+
+<ul>
+<li>Set up OSX Server to host Bugzilla for company's internal bug reporting and handling framework.</li>
+<li>Configured centralized LDAP authentication server in Gentoo Linux.</li>
+<li>Windows 2003 Server filesharing to OSX machines.</li>
+<li>OSX printing to Windows 2003 Server.</li>
+<li>Automated OSX backup to Windows 2003 Server.</li>
+<li>Customized software for auto-mounting server shares in OSX using Applescript.</li>
+<li>Hard drive and RAM installation on production machines.</li>
+<li>High-end printer configuration in OSX (non-standard drivers, Linux/Unix drivers in OSX).</li>
+<li>Hewlett Packard printer configuration.</li>
+</ul>
+</li>
+				<li><p>Wrote an open source program for manipulating Nintendo GameCube disc images (.gcm and .iso) for Linux, OSX, and Windows (under cygwin) that runs on both PPC and x86 architectures in ANSI C. Also wrote an open source program for extracting and injecting graphics as well as editing meta-data (titles) for Nintendo (NES) game ROM files. Written in ANSI C for *nix and OSX.</p></li>
+				<li><p>Created several applications in Java using TCP and UDP socket communication utilizing the Hotline Connect and Hotline Tracker protocols including a Hotline Connect client and Hotline Tracker server and client.</p></li>
+				<li><p>Developed the only working Mac client for the ScourXChange network using REALbasic.</p></li>
+			</ul>
+</div>
+</div>
+
+		<div style="clear: both; float: none"><!-- omigod! --></div>
+	</div>
+	</div>
+
+	<div id="footer"><!-- meow --></div>
+	<div id="footer_text">
+		&copy;1997-2012 Lamestuff.com / Spike Grobstein
+	</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5702404-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>
